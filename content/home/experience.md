@@ -39,4 +39,21 @@ Implemented a fully unsupervised method that incorporated adaptive video-based c
 Other methods that were tried, included Optical Flow, Deep Visual Embeddings and Transfer Learning. Our method is able to discover previously unseen mouse cursors in videos, despite fast movement and instant appearance changes in a fully unsupervised manner. It outperforms Online Tracking (TLD, CSRT, MIL), and Deep Learning based object detection methods (Faster-RCNN) which require large training datasets.
 """
 
+[[experience]]
+  title = "Student Research Assistant"
+  company = "University at Buffalo, SUNY"
+  company_url = ""
+  location = "Buffalo, NY"
+  date_start = "2017-09-01"
+  date_end = "2018-11-01"
+  description = """Over the course of the last year as a research assistant for Prof. Haimonti Dutta, I have worked on a variety of  
+  problems related to Machine Learning and Natural Language Processing. 
+  These include:
+  1. GADGET - A gossip-based sub-gradient solver, which aims to determine a solution for the binary classification SVM in a distributed setting. I worked on several improvements for an existing C++/Java/JNI code-base, ran baseline experiments, wrote scripts to aggregate results, and performed a literature review. Ported code to pure Java using the Weka library.
+ Tech stack - Java, C++, Java Native Interface (JNI), Python, Peersim (A distributed simulator).
+2. Named Entity Recognition on tweets. Tech stack: Java, StanfordNLP.
+3. Vanilla, Lasso and Ridge Logistic Regression for the problem of detecting inter-group prejudice in tweets. Tech stack: R
+"""
+
+
 +++
