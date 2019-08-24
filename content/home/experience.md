@@ -47,13 +47,30 @@ Other methods that were tried, included Optical Flow, Deep Visual Embeddings and
   date_start = "2017-09-01"
   date_end = "2018-11-01"
   description = """Over the course of the last year as a research assistant for Prof. Haimonti Dutta, I have worked on a variety of  
-  problems related to Machine Learning and Natural Language Processing. 
-    These include:
-    1. GADGET - A gossip-based sub-gradient solver, which aims to determine a solution for the binary classification SVM in a distributed setting. I worked on several improvements for an existing C++/Java/JNI code-base, ran baseline experiments, wrote scripts to aggregate results, and performed a literature review. Ported code to pure Java using the Weka library.
-    Tech stack - Java, C++, Java Native Interface (JNI), Python, Peersim (A distributed simulator).
-2. Named Entity Recognition on tweets. Tech stack: Java, StanfordNLP.
-3. Vanilla, Lasso and Ridge Logistic Regression for the problem of detecting inter-group prejudice in tweets. Tech stack: R
+  problems related to Machine Learning and Natural Language Processing.  
+  These include:  
+  1. GADGET - A gossip-based sub-gradient solver, which aims to determine a solution for the binary classification SVM in a distributed setting. I worked on several improvements for an existing C++/Java/JNI code-base, ran baseline experiments, wrote scripts to aggregate results, and performed a literature review. Ported code to pure Java using the Weka library.  
+  Tech stack - Java, C++, Java Native Interface (JNI), Python, Peersim (A distributed simulator).
+2. Named Entity Recognition on tweets.  
+Tech stack: Java, StanfordNLP.  
+3. Vanilla, Lasso and Ridge Logistic Regression for the problem of detecting inter-group prejudice in tweets.  
+Tech stack: R
 """
+
+
+[[experience]]
+  title = "Applied Machine Learning Intern"
+  company = "Clarifai"
+  company_url = "https://www.clarifai.com/"
+  location = "New York, NY"
+  date_start = "2018-05-29"
+  date_end = "2018-08-24"
+  description = """1. Object tracking and detection - Developed a hybrid single-object tracker based on existing research that interleaved detection at regular intervals to combat the problem of tracker drift.  
+  2. Depth sensor noise characterization - Characterized and visualized the temporal noise distributions of depth and confidence maps provided by an industry-grade depth camera. Wrote several helper scripts to obtain and store images from the camera into the appropriate format, keeping in mind the pitfalls of image compression when it comes to storing large, high quality images.  
+  3. Visualization - Extended and modified an existing video/image visualization framework to incorporate several functionalities.  
+  Tech Stack: Python, Tensorflow, Git, Matplotlib, ZED Depth Camera
+"""
+
 
 
 +++
