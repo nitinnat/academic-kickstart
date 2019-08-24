@@ -48,9 +48,9 @@ Other methods that were tried, included Optical Flow, Deep Visual Embeddings and
   date_end = "2018-11-01"
   description = """Over the course of the last year as a research assistant for Prof. Haimonti Dutta, I have worked on a variety of  
   problems related to Machine Learning and Natural Language Processing. 
-  These include:
-  1. GADGET - A gossip-based sub-gradient solver, which aims to determine a solution for the binary classification SVM in a distributed setting. I worked on several improvements for an existing C++/Java/JNI code-base, ran baseline experiments, wrote scripts to aggregate results, and performed a literature review. Ported code to pure Java using the Weka library.
- Tech stack - Java, C++, Java Native Interface (JNI), Python, Peersim (A distributed simulator).
+    These include:
+    1. GADGET - A gossip-based sub-gradient solver, which aims to determine a solution for the binary classification SVM in a distributed setting. I worked on several improvements for an existing C++/Java/JNI code-base, ran baseline experiments, wrote scripts to aggregate results, and performed a literature review. Ported code to pure Java using the Weka library.
+    Tech stack - Java, C++, Java Native Interface (JNI), Python, Peersim (A distributed simulator).
 2. Named Entity Recognition on tweets. Tech stack: Java, StanfordNLP.
 3. Vanilla, Lasso and Ridge Logistic Regression for the problem of detecting inter-group prejudice in tweets. Tech stack: R
 """
