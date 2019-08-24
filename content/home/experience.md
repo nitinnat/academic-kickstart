@@ -65,7 +65,8 @@ Tech stack: R
   location = "New York, NY"
   date_start = "2018-05-29"
   date_end = "2018-08-24"
-  description = """1. Object tracking and detection - Developed a hybrid single-object tracker based on existing research that interleaved detection at regular intervals to combat the problem of tracker drift.  
+  description = """  
+  1. Object tracking and detection - Developed a hybrid single-object tracker based on existing research that interleaved detection at regular intervals to combat the problem of tracker drift.  
   2. Depth sensor noise characterization - Characterized and visualized the temporal noise distributions of depth and confidence maps provided by an industry-grade depth camera. Wrote several helper scripts to obtain and store images from the camera into the appropriate format, keeping in mind the pitfalls of image compression when it comes to storing large, high quality images.  
   3. Visualization - Extended and modified an existing video/image visualization framework to incorporate several functionalities.  
   Tech Stack: Python, Tensorflow, Git, Matplotlib, ZED Depth Camera
