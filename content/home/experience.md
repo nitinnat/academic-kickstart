@@ -85,9 +85,7 @@ Other methods that were tried, included Optical Flow, Deep Visual Embeddings and
   1. Conversational Chat Interface:  
   
     * Agile development of an enterprise-wide chatbot based on ontology, natural language processing and machine learning approaches, to offload internal customer service desk interactions.  
-    * Proposed and developed hybrid APIs for query expansion and response retrieval using semantic word embeddings, synonym augmentation, query ranking and topic classification.  
-    * Cut-down knowledge creation and maintenance times via automation by 60 percent.  
-    * Acted as an active consultant for three other business units for chatbot deployments in domains such as finance and production support.  
+    * Proposed and developed hybrid APIs for query expansion and response retrieval using semantic word embeddings, synonym augmentation, query ranking and topic classification.
     * Experimented with Deep Learning architectures using sequence to sequence learning.  
     * Enabled containerization of several code components using Docker.  
   2. Sentiment Analysis:  
@@ -97,5 +95,18 @@ Other methods that were tried, included Optical Flow, Deep Visual Embeddings and
     * Applied Support Vector Machines, Naive Bayes and LSTM classifiers for a cross-validation accuracy of over 93 percent.
 """
 
+[[experience]]
+  title = "Executive Graduate Trainee"
+  company = "Fidelity Investments"
+  company_url = "https://india.fidelity.com"
+  location = "Bengaluru, India"
+  date_start = "2015-06-11"
+  date_end = "2016-08-01"
+  description = """  
+  1. Managed reporting and analytics solutions for a team of 120 associates in India, United States and China.  
+  2. Analyzed and consolidated KPIs from data stored in several relational databases using Python and SQL.
+  3. Created interactive operational and performance dashboards using Tableau.
+  4. Interacted regularly with senior management to propose and modify crucial KPIs.
+"""
 
 +++
