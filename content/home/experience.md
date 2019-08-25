@@ -82,6 +82,7 @@ Other methods that were tried, included Optical Flow, Deep Visual Embeddings and
   date_end = "2017-07-01"
   description = """  
   1. Conversational Chat Interface:  
+  
     * Agile development of an enterprise-wide chatbot based on ontology, natural language processing and machine learning approaches, to offload internal customer service desk interactions.  
     * Proposed and developed hybrid APIs for query expansion and response retrieval based on semantic word embeddings, synonym augmentation and query ranking.  
     * Slashed knowledge creation and maintenance times via automation by 60 percent.  
@@ -90,6 +91,7 @@ Other methods that were tried, included Optical Flow, Deep Visual Embeddings and
     * Debugged front-end and middle-tier code under a DevOps model.  
     * Enabled containerization of several code components using Docker.  
   2. Sentiment Analysis:  
+  
     * Created a sentiment and skill mining tool to retrieve employee-based insights, aiding senior management in the assessment of employee training opportunities.  
     * Analyzed and processed complex unsupervised relational text data.  
     * Applied Support Vector Machines, Naive Bayes and LSTM classifiers for a cross-validation accuracy of over 93 percent.
